@@ -5,7 +5,7 @@ except ImportError:
 
 config = {
     'name': 'sam_broadcaster',
-    'version': '0.1',
+    'version': '0.0.1',
     'description': 'SAM Broadcaster Connector',
     'url': 'https://github.com/IamMrCupp/sam_broadcaster-python',
     'author': 'Aaron Cupp',
